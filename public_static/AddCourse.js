@@ -93,8 +93,6 @@ $(()=>{
         var coursesemester = CourseObject.resultcoursesemester
         var coursetype = CourseObject.resultcoursetype
 
-
-
         $("#mainresult").append(
             `<tr class="clr" > 
                    <td>${coursebranch}</td>
